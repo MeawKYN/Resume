@@ -1,0 +1,83 @@
+div {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+.my-bg {
+  background-color: #00126A;
+}
+
+h2 {
+  color: white;
+text-align: center;
+  border-style: solid;
+  border-color: #00126A;
+  background-color: #00126A;
+  font-family: 'Dela Gothic One', cursive;
+    position: relative;
+  border-radius: 6px;
+}
+.my-pic1 {
+   border-style: solid;
+  border-color: #00126A;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 10px;
+}
+
+p {
+  font-family: 'K2D', sans-serif;
+   background-color: white;
+  text-align: center;
+   padding: 20px 30px;
+  position: relative;
+  border-radius: 6px;
+}
+
+h3{
+
+    color: #00126A;
+text-align: center;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+h5{
+font-family: 'Lato', sans-serif;
+  text-align: center;
+background-color: yellow;
+    position: relative;
+  border-radius: 10px;
+     padding: 5px 10px;
+}
+
+.my-p3 {
+  font-family: 'K2D', sans-serif;
+ background-color: white;
+   padding: 20px 30px;
+  position: relative;
+  border-radius: 6px;
+}
+
+.nav-item{
+color: #00126A;
+font-family: 'K2D', sans-serif;
+}
+
+.dropdown-item{
+  color: #00126A;
+font-family: 'K2D', sans-serif;
+}
+
+.navbar-brand{
+  color: #00126A;
+font-family: 'K2D', sans-serif;
+}
+
+p4{
+ font-family: 'K2D', sans-serif;
+   background-color: white;
+  text-align: center;
+}
+.row{
+ background-color: #FEE5CA;
+}
