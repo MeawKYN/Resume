@@ -1,80 +1,128 @@
-div {
-  padding-right: 40px;
-  padding-left: 40px;
-}
-.my-bg {
-  background-color: #FEE5CA;
+.my-container{
+background-color:#FFE6FD;
 }
 
 h2 {
-  color: white;
+  font-family: 'Dela Gothic One', sans-serif;
+  color: #9D0091;
 text-align: center;
-  border-style: solid;
-  border-color: #00126A;
-  background-color: #00126A;
-  font-family: 'Dela Gothic One', cursive;
     position: relative;
   border-radius: 6px;
 }
+
 .my-pic1 {
    border-style: solid;
-  border-color: #00126A;
+  border-color: #9D0091;
   display: block;
   margin-left: auto;
   margin-right: auto;
   border-width: 10px;
 }
 
-p {
-  font-family: 'K2D', sans-serif;
-   background-color: white;
-  text-align: center;
-   padding: 20px 30px;
-  position: relative;
-  border-radius: 6px;
-}
-
-h3{
-
-    color: #00126A;
+p{   font-family: 'K2D', sans-serif;
+  color: Black;
 text-align: center;
-  font-family: 'Dela Gothic One', cursive;
-}
-
-h5{
-font-family: 'Lato', sans-serif;
-  text-align: center;
-background-color: yellow;
     position: relative;
-  border-radius: 10px;
-     padding: 5px 10px;
-}
-
-.my-p3 {
-  font-family: 'K2D', sans-serif;
- background-color: white;
-   padding: 20px 30px;
-  position: relative;
   border-radius: 6px;
 }
 
-.nav-item{
-color: #00126A;
-font-family: 'K2D', sans-serif;
+h5{ 
+    font-family: 'Lato', sans-serif;
+  color: Black;
+text-align: center;
+    position: relative;
+  border-radius: 6px;}
+
+p3{
+    font-family: 'K2D', sans-serif;
+  color: Black;
+text-align: center;
+    position: relative;
+  border-radius: 6px;}
+
+
+.my-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 10px;
 }
 
-.dropdown-item{
-  color: #00126A;
-font-family: 'K2D', sans-serif;
+.my-pic2{  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 10px;}
+
+.row2 {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.row3 {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.row4 {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.row5 {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.row6 {
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
-.navbar-brand{
-  color: #00126A;
-font-family: 'K2D', sans-serif;
+.row7 {
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
-p4{
- font-family: 'K2D', sans-serif;
-   background-color: white;
-  text-align: center;
+.row8 {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.row9 {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.my-con1{
+background-color:#FFE6FD;
+}
+
+body{
+  background-color:#FF40DA;}
+
+.row0{
+   background-color: #f9fcff;
+  border-right: #9D0091 solid 100px;
+  border-left: #9D0091 solid 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.row9{
+padding-bottom: 20px;
+}
+
+.row11{
+  background-color: #9D0091;
+padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contact{
+    margin-left: auto;
+  margin-right: auto;
+max-width: 60%;
+  height: auto;
+}
+
+.edu{
+    margin-left: auto;
+  margin-right: auto;
+max-width: 80%;
+  height: auto;
 }
