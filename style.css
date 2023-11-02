@@ -51,7 +51,9 @@ text-align: center;
 .my-pic2{  display: block;
   margin-left: auto;
   margin-right: auto;
-  border-width: 10px;}
+  border-width: 10px;
+max-width: 60%;
+  height: auto;}
 
 .row2 {
   padding-right: 100px;
