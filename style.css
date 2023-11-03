@@ -11,8 +11,7 @@ text-align: center;
 }
 
 .my-pic1 {
-  max-width: 50%;
-  height: auto;
+   position: relative;
    border-style: solid;
   border-color: #9D0091;
   display: block;
@@ -160,8 +159,8 @@ h4{
 
 
 .row10-1{
-  padding-right: 90px;
-  padding-left: 90px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .my-ct-2{
